@@ -6,6 +6,7 @@ coverImage: "/images/chatGpt.png"
 ---
 
 > #### Acesta este un exemplu, de cum poti folosi Chat Gpt.
+
  
 ## Eu i-am cerut asta: 
 
