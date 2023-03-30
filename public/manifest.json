@@ -29,7 +29,7 @@
   ],
   "background_color": "#ffffff",
   "display": "standalone",
-  "scope": "/",
-  "start_url": "/",
+  "scope": "https://static-blog-md.vercel.app/",
+  "start_url": "https://static-blog-md.vercel.app/",
   "theme_color": "#ffffff" 
 }
