@@ -12,7 +12,7 @@ export default function RootLayout({
       <head />
 
       <body >
-        <div className="mx-auto  max-w-2xl px-6  ">
+        <div className="mx-auto lg:max-w-3xl md:max-w-2xl px-6  ">
           <Header/>
          {children}
          <Footer/>

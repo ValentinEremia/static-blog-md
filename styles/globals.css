@@ -21,8 +21,11 @@
   max-width: 100% !important;
 }
 @layer components {
-  img {
-    margin: 2rem auto;
+  img{
+    @apply mx-auto my-6 sm:my-8 
+  }
+  .prose img {
+    @apply rounded-md
   }
   pre {
     @apply bg-slate-800 text-white my-2

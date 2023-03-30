@@ -2,9 +2,12 @@
 title: "Nicolae Ceaușescu"
 subtitle: "Ceaușescu a fost un lider controversat și diviziv, cu o reputație de tiran și abuz de putere."
 date: "2023-03-28"
+coverImage: "https://img.a1.ro/0/2018/8/16/793032/15344178172e32a82e.jpg?w=970"
 ---
+>Atentie: Aceste informatii sunt furnizate de Chat GPT ! Nu sunt verificate! 
+
 ## Nicolae Ceaușescu: un lider controversat al României
-![Nicolae Ceausescu](https://img.a1.ro/0/2018/8/16/793032/15344178172e32a82e.jpg?w=970)
+
 Nicolae Ceaușescu a fost un lider politic român care a condus România din 1965 până în 1989, când a fost îndepărtat de la putere în timpul Revoluției Române din 1989. Ceaușescu a fost un lider controversat și diviziv, cu o reputație de tiran și abuz de putere.
 
 ## Ascensiunea la putere
