@@ -5,15 +5,15 @@ date: "30.03.2023"
 coverImage: "/images/chatGpt.png"
 ---
 
->### Acesta este un exemplu, de cum poti folosi Chat Gpt.
+> #### Acesta este un exemplu, de cum poti folosi Chat Gpt.
+ 
+**Eu i-am cerut asta:**
 
-
-Eu i-am cerut asta:
->Te rog sa imi scri un cod markdown despre chat gpt ,cu exemple si imagini, in care utilizatorul ii pune intrebari si el raspunde. Vreau sa fie scris in sintaxa markdoun ca eu sa il pot salva intrun fisier ".md"
+> Te rog sa imi scri un cod markdown despre chat gpt ,cu exemple si imagini, in care utilizatorul ii pune intrebari si el raspunde. Vreau sa fie scris in sintaxa markdoun ca eu sa il pot salva intrun fisier ".md" 
 
 ### Raspuns:
 
->#### Bineinteles, iata un exemplu de articol Markdown despre ChatGPT, cu exemple si imagini:
+> #### Bineinteles, iata un exemplu de articol Markdown despre ChatGPT, cu exemple si imagini:
 
 # ChatGPT - Un Asistent Virtual Impresionant
 
