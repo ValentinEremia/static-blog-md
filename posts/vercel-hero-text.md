@@ -308,4 +308,6 @@ It's time to apply the class back to our markup. [Here](https://play.tailwindcss
 
 ## Conclusion
 
-You can see the source code of [this on my github file](https://github.com/ValentinEremia/static-blog-md/blob/main/components/VercelHeroText.tsx) to see how I implemented it. Hope you enjoyed the read.
+You can view the source code on [my github](https://github.com/ValentinEremia/static-blog-md/blob/main/components/VercelHeroText.tsx)  account to see how I implemented it. Hope you enjoyed the read.
+
+Happy coding 🍻.
