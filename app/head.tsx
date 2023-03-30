@@ -4,6 +4,7 @@ export default function Head() {
       <title>Blog.</title>
       <meta content="width=device-width, initial-scale=1" name="viewport" />
       <meta name="description" content="A static blog , written in Markdown and built with Tailwind CSS, Next.js 13, Vercel, and GitHub." />
+      <meta name="theme-color" content="#2b2b34"/>
       <link rel="icon" href="/favicon.ico" />
       <link
         rel="apple-touch-icon"
