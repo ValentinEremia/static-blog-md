@@ -40,7 +40,7 @@ export default function PostPage(props: any) {
         //   alt={`cover image of ${post.data.title} blog`} 
         // />
         
-        <img className="rounded-md" src={coverImageOfPost} alt={`cover image of ${post.data.title} blog`}   />
+        <img className="rounded-md w-full " src={coverImageOfPost} alt={`cover image of ${post.data.title} blog`}   />
         }
        
          

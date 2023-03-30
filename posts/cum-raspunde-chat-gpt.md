@@ -35,7 +35,7 @@ Utilizator: Poti imi spui un banc? ChatGPT: Desigur! De ce se duc astronautii la
 
 ## Imagini
 
-![ChatGPT](https://images.unsplash.com/photo-1606809501602-7f1a84fc0d8a?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
+![ChatGPT](https://thehill.com/wp-content/uploads/sites/2/2023/02/chatbot_020323_getty_educationAI.jpg?strip=1)
 
 ## Concluzie
 
