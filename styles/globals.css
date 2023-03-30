@@ -1,0 +1,40 @@
+/* for Tailwind Css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*  ---  */
+
+/* body{
+  background-color: rgb(16, 11, 26);
+} */
+
+.article-card {
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.prose{
+  
+  max-width: 100% !important;
+}
+@layer components {
+  img {
+    margin: 2rem auto;
+  }
+  pre {
+    @apply bg-slate-800 text-white my-2
+    whitespace-pre-wrap;
+  }
+
+  quote {
+    @apply text-gray-400 font-normal;
+  }
+
+  iframe {
+    @apply mx-auto w-full aspect-video h-auto rounded-md;
+  }
+  
+}
