@@ -21,7 +21,7 @@ export default function HomePage() {
     <PostPreview key={post.slug} {...post} />
   ));
 
-  console.log(postPreviews);
+ 
 
   return (
      

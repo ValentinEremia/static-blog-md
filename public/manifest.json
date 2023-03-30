@@ -1,0 +1,35 @@
+{
+  "name": "Vali E. Blog.",
+  "short_name": "Blog.",
+  "description": "A static blog , written in Markdown and built with Tailwind CSS, Next.js 13, Vercel, and GitHub.",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+ 
+    {
+        "src": "/maskable_icon_x192.png",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose": "maskable"
+    },
+    {
+        "src": "/maskable_icon_x512.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose": "maskable"
+    }
+  ],
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/?source=pwa",
+  "theme_color": "#ffffff" 
+}
