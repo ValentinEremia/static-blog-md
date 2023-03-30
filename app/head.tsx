@@ -2,7 +2,13 @@ export default function Head() {
   return (
     <>
       <title>Blog.</title>
-      <meta content="width=device-width, initial-scale=1" name="viewport" />
+      <meta charSet='utf-8' />
+      <meta name='mobile-web-app-capable' content='yes' />
+		<meta name='apple-mobile-web-app-capable' content='yes' />
+      <meta
+  name='viewport'
+  content='minimum-scale=1, initial-scale=1, width=device-width, shrink-to-fit=no, user-scalable=no, viewport-fit=cover'
+/>
       <meta name="description" content="A static blog , written in Markdown and built with Tailwind CSS, Next.js 13, Vercel, and GitHub." />
       <meta name="theme-color" content="#2b2b34"/>
       <link rel="icon" href="/favicon.ico" />
