@@ -1,7 +1,7 @@
 ---
 title: "Build a Developer Blog with Next.js"
 subtitle: "Build-Time Syntax Highlighting: Zero Client-Side JS, 100+ Languages"
-date: "2022-08-24"
+date: "24.08.2022"
 ---
 
  

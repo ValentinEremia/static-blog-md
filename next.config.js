@@ -28,7 +28,7 @@ const withPWA = require("next-pwa")({
   register: true,
   runtimeCaching,
   skipWaiting: true,
-  sw: "/sw.js",
+  // sw: "/sw.js",
 });
 
 module.exports = withPWA(nextConfig);

@@ -1,7 +1,7 @@
 ---
 title: "Xiaomi lansează seria Redmi Note 12"
 subtitle: "Xiaomi a adus în România noua serie **Redmi Note 12** ce vine cu **4** modele."
-date: "2023-03-12"
+date: "12.03.2023"
 coverImage: "https://www.androidu.ro/wp-content/uploads/2023/03/live-vivid.jpg"
 ---
 

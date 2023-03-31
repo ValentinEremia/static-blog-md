@@ -30,6 +30,7 @@ export default function Head() {
         href="/favicon-16x16.png"
       />
       <link rel="manifest" href="/manifest.json" />
+      
     </>
   );
 }

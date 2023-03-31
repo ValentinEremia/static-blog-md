@@ -1,7 +1,7 @@
 ---
 title: "CSS in real world"
 subtitle: "Re-create Vercel Develop. Preview. Ship. with Tailwind CSS"
-date: "October 10, 2021"
+date: "10.10.2021"
 coverImage: "/images/vercel.gif"
 ---
 
@@ -21,7 +21,7 @@ Table of Contents
 
 ## Intro
 
-Earlier this week I [tweeted](https://twitter.com/thanghvu/status/1445010823252955138) about a [Tailwind Play version](https://play.tailwindcss.com/DntnlBJk2F) of [Vercel](https://vercel.com/home) "Develop. Preview. Ship" Hero Header. Here is how it looks like on Vercel Homepage:
+Earlier this week I [tweeted]() about a [Tailwind Play version]() of [Vercel](https://vercel.com/home) "Develop. Preview. Ship" Hero Header. Here is how it looks like on Vercel Homepage:
 
 Seeing simple yet effective CSS like this is always fascinating to me. I eventually adapted the animation for this site's Hero. Let's discuss the technical details behind this piece as we re-create it using Tailwind.
 
