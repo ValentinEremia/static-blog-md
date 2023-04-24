@@ -1,7 +1,7 @@
 ---
 title: "Ce face ChatGPT? ChatGPT pentru conținut și SEO?"
 subtitle: "Dacă ești un creator de conținut sau un specialist SEO, știi cât de dificil poate fi să te menții în fruntea concurenței."
-date: "29.03.2023"
+date: "29-03-2023"
 coverImage: "https://geeki.ro/wp-content/uploads/2023/03/Ce-este-GPT-Chat-768x422.jpg"
 ---
 

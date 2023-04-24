@@ -1,7 +1,7 @@
 ---
 title: "Nicolae Ceaușescu"
 subtitle: "Ceaușescu a fost un lider controversat și diviziv, cu o reputație de tiran și abuz de putere."
-date: "28.03.2023"
+date: "28-03-2023"
 coverImage: "https://img.a1.ro/0/2018/8/16/793032/15344178172e32a82e.jpg?w=970"
 ---
 >Atentie: Aceste informatii sunt furnizate de Chat GPT ! Nu sunt verificate! 

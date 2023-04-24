@@ -1,7 +1,7 @@
 ---
 title: "Acer intră pe piața de biciclete electrice"
 subtitle: "Probabil cunoașteți destul de bine pe Acer pentru ale sale laptopuri, PC-uri sau monitoare. Se pare că faimosul brand vrea să fie cunoscut și pentru alte produse, așa că lansează o bicicletă electrică cu funcții AI folositoare consumului de baterie."
-date: "24.03.2023"
+date: "24-03-2023"
 coverImage: "https://www.androidu.ro/wp-content/uploads/2023/03/acer-ebii-e-bike.jpg"
 ---
 

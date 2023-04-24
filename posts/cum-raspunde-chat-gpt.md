@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT - Un Asistent Virtual Impresionant"
 subtitle: "Acesta este un exemplu, de cum poti folosi Chat Gpt."
-date: "30.03.2023"
+date: "30-03-2023"
 coverImage: "/images/chatGpt.png"
 ---
 

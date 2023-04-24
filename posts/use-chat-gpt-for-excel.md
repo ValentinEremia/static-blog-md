@@ -1,7 +1,7 @@
 ---
 title: "How to use ChatGPT to write Excel formulas"
 subtitle: "Ever felt stumped trying to write Microsoft Excel formulas for your table? Let ChatGPT do the work for you."
-date: "30.03.2023"
+date: "30-03-2023"
 coverImage: "https://www.zdnet.com/a/img/resize/b65105c348bad78aa2032ef0c941f5c55dc067d6/2023/03/29/36c1d46f-d3ed-4966-82b6-22fa08c7adb5/chatgpt-excel.jpg?auto=webp&width=1280"
 ---
 

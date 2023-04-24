@@ -1,7 +1,7 @@
 ---
 title: "Better responsive images with srcset and sizes attributes"
 subtitle: "Versiunea pentru PC a apreciatului joc din 2013 al lui Naughty Dog, The Last of Us Part 1, a fost lansată în sfârșit, dar jucătorii sunt departe de a fi mulțumiți. "
-date: "25.10.2022"
+date: "25-10-2022"
 coverImage: "https://www.leohuynh.dev/_next/image?url=%2Fstatic%2Fimages%2Fresponsive-image.jpg&w=3840&q=75"
 ---
 

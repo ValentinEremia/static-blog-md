@@ -2,8 +2,7 @@ import fs from "fs";
 import Markdown from "markdown-to-jsx";
 import matter from "gray-matter";
 import getPostMetadata from "@/components/getPostMetadata";
-import Image from "next/image";
-import Link from "next/link";
+ 
 
 const getPostContent = (slug: string) => {
   const folder = "posts/";
@@ -14,11 +13,14 @@ const getPostContent = (slug: string) => {
   return matterResult;
 };
 
+
+
+
 export const generateStaticParams = async () => {
   const posts = getPostMetadata();
-  return posts.map((post) => ({
-    slug: post.slug,
-  }));
+  return  posts.map((post) => ({
+   slug: post.slug,
+ }));
 };
 
 export default function PostPage(props: any) {

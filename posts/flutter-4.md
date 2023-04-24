@@ -1,7 +1,7 @@
 ---
 title: "Flutter 4.0: Inovații și îmbunătățiri"
 subtitle: "Flutter 4.0 este ultima versiune majoră a platformei de dezvoltare de aplicații mobile, lansată de Google în martie 2023."
-date: "06.04.2023"
+date: "06-04-2023"
 coverImage: "https://blog.gskinner.com/wp-content/uploads/2022/09/wonderous-flutter-ide_crop.jpg"
 ---
  

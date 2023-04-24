@@ -1,7 +1,7 @@
 ---
 title: "World Wide Web"
 subtitle: "Yes, today this is the 34th anniversary ! What better way than to write and share her story with you on the same day. 😍"
-date: "12.03.2023"
+date: "12-03-2023"
 coverImage: "https://res.cloudinary.com/practicaldev/image/fetch/s--4ZMzBYsg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/prm9ch42x6f544c2cloo.jpg"
 ---
 ```html

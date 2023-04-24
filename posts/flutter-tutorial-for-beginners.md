@@ -1,7 +1,7 @@
 ---
 title: "Flutter Tutorial for Beginners"
 subtitle: "Doing mobile application development can be difficult especially when you have to install different modules and get things working on iOS and Android in sync."
-date: "12.05.2020"
+date: "12-05-2020"
 coverImage: "https://res.cloudinary.com/practicaldev/image/fetch/s--RcGF27IR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/vgzlui9wxy441ci7igfo.png"
 ---
 

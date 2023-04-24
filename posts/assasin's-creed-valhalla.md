@@ -1,8 +1,8 @@
 ---
 title: "Assassin’s Creed Valhalla câștigă premiul Grammy"
 subtitle: "Assassin’s Creed Valhalla a devenit primul joc care a primit un premiu Grammy , cel mai important eveniment care celebrează muzica mondială."
-date: "06.02.2023"
-coverImage: "https://geeki.ro/wp-content/uploads/2023/02/Assassins-Creed-Valhalla-768x432.jpeg"
+date: "06-02-2023"
+coverImage: "https://www.dsogaming.com/wp-content/uploads/2020/10/AC-Valhalla-Header.jpg"
 ---
 
 Assassin’s Creed Valhalla a devenit primul joc care a primit un premiu Grammy , cel mai important eveniment care celebrează muzica mondială. Stephanie Economou, cu compoziția sa pentru DLC Dawn of Ragnarok, a luat premiul pentru cea mai bună coloană sonoră a jocului care a debutat în această ediție a evenimentului.

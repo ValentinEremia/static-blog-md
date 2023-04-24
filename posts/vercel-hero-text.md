@@ -1,7 +1,7 @@
 ---
 title: "CSS in real world"
 subtitle: "Re-create Vercel Develop. Preview. Ship. with Tailwind CSS"
-date: "10.10.2021"
+date: "10-10-2021"
 coverImage: "/images/vercel.gif"
 ---
 
