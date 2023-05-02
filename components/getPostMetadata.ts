@@ -33,4 +33,4 @@ const getPostMetadata = (): PostMetadata[] => {
   
 };
 
-export default getPostMetadata;
+export default getPostMetadata; 

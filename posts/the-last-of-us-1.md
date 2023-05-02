@@ -2,7 +2,7 @@
 title: "The Last of Us Part I a ajuns pe PC cu probleme!"
 subtitle: "Versiunea pentru PC a apreciatului joc din 2013 al lui Naughty Dog, The Last of Us Part 1, a fost lansată în sfârșit, dar jucătorii sunt departe de a fi mulțumiți. "
 date: "29-03-2023"
-coverImage: "https://geeki.ro/wp-content/uploads/2023/03/The-Last-of-Us-Part-I-2-768x432.webp"
+coverImage: "https://s3.us-east-1.amazonaws.com/nd.images/uploads/d20220518_TLOUX_SocialAssets_T1X_-Annouce_16x9.jpg"
 ---
 
 Versiunea pentru PC a apreciatului joc din 2013 al lui Naughty Dog, The Last of Us Part 1, a fost lansată în sfârșit, dar jucătorii sunt departe de a fi mulțumiți. Versiunea pentru PC a lui The Last of Us Part 1 a fost și continuă să fie puternic criticată pentru performanță slabă și blocări frecvente în ziua lansării sale.
