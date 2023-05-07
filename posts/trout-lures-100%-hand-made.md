@@ -1,7 +1,7 @@
 ---
 title: "Trout lures - 100% hand made from balsa wood"
 subtitle: "Each and every piece is tested and tuned individually, to make sure it has the best swimming action in any waters."
-date: "24-08-2022"
+date: "01-05-2023"
 coverImage: "https://cdn.shopify.com/s/files/1/0513/0652/8917/articles/DSC05422_720x.jpg?v=1675419508"
 ---
 I make hand-made  lures from balsa wood .
