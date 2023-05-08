@@ -13,7 +13,7 @@ Filmul Oppenheimer 2023 promite să ofere o perspectivă profundă asupra vieți
 
 De asemenea, trailerul filmului promite un spectacol vizual impresionant, cu imagini ale experimentelor științifice, ale încercărilor nucleare și ale evenimentelor istorice care au dus la crearea bombei atomice. Sunetul și coloana sonoră sunt de asemenea impresionante, reușind să transmită tensiunea și dramaticitatea subiectului.
 
-<iframe loading="lazy" title="Oppenheimer 2023" width="710" height="399" src="https://www.youtube.com/embed/Y0gsIvHvvwI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe> <br/>
+<iframe loading="lazy" title="Oppenheimer 2023" width="710" height="399" src="https://www.youtube.com/embed/uYPbbksJxIg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe> <br/>
 
 În concluzie, Oppenheimer 2023 este un film de neratat pentru toți cei interesați de istorie, știință și cinematografie. Acesta promite să ofere o perspectivă complexă asupra unei figuri istorice importante și asupra impactului invenției sale asupra lumii. Filmul va fi disponibil în cinematografele din toată lumea începând cu luna iulie 2023.
 
