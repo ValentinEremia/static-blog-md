@@ -10,7 +10,7 @@ Pe data de 9 mai, Uniunea Europeană sărbătorește Ziua Europei. Această zi c
 
 Pentru a celebra Ziua Europei, au loc evenimente și activități în toate statele membre ale UE, precum parade, concerte, conferințe și expoziții. În plus, UE organizează și o serie de evenimente online pentru a permite oamenilor să se conecteze și să participe la celebrarea acestei zile importante.
  
-<iframe loadding="lasy" width="860" height="484" src="https://youtu.be/u00z3cE1aUU" title=" " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe loadding="lasy" width="860" height="484" src="https://www.youtube.com/embed/u00z3cE1aUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Concluzie
 
